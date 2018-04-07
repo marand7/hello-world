@@ -1,2 +1,9 @@
 # hello-world
 Just another repository
+
+
+Hello! My name is Mario Aranda Jr., I am currently a full-time student at the University of Illinois at Chicago majoring in Mathematics and Computer Science. I was originally studying Electrical Engineering, but after a summer of building my first computer from scratch piece-by-piece, I fell in love with my inner computer science passion that out weighted my previous love for Electrical Engineering. However, that knowledge I obtained from engineering has not left me nor ever will. 
+
+I have had two internships with the respected DBE engineering firm that is AAA Engineering LTD during the summers of 2016 and 2017. There I obtained an immense of knowledge of the engineering industry learning and acquiring skills in some drafting software, communicating with key employees and vendors, handled QA/QC process and procedures, and other office tasks. In addition, I have also held a part-time job during the school year at the College of Pharmacy in the Department of Pharmacy Practice, there I have enhanced my communication skills via email, over the phone, in-person conversations, as well as handled multiple minor and major task for the department as a General Office Assistant. Before working in the Department of Pharmacy Practice, I had also worked with the UIC Pavilion as part of the production crew and before that, my first job was with Footlocker as a Sales Associate. There, I learned to become more of a team player and developed my communication skills the summer before my first semester of college. 
+
+In conclusion, I have kept busy for the past 2 years after high school and continue to thrive in any environment, have the willingness to learn as well get along with fellow coworkers, and satisfying management and customers which I plan to implement into my future career. If you have any questions, feel free to call or email me.
